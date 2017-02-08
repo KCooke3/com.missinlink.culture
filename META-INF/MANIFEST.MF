@@ -1,0 +1,111 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout/twitter.xml
+SHA1-Digest: wQ1Bx0HWOGyVVbCMjUjoyhBPhcM=
+
+Name: assets/www/bio.html
+SHA1-Digest: SogscFojT0bP9KelVrhpuRYr9CY=
+
+Name: res/layout/music.xml
+SHA1-Digest: koOq2AwR/+4VRAKYwOvHER/opCs=
+
+Name: res/xml/plugins.xml
+SHA1-Digest: warpLynAGugZbnQ3Ni0JwkKtrNs=
+
+Name: assets/www/images/biobg.jpg
+SHA1-Digest: 4vKrIhvpqz5qkdwPJ3TTcbiaf9I=
+
+Name: resources.arsc
+SHA1-Digest: /gva0w9q4NlXRf9u1eBlq8pyEmo=
+
+Name: res/layout/menu.xml
+SHA1-Digest: DAGDcZUbKwVoOFo4yrjfnFLoQa4=
+
+Name: res/layout/email.xml
+SHA1-Digest: C2NPCay3kdTvDekcSxBw7MbFZBc=
+
+Name: assets/www/phonegap.js
+SHA1-Digest: yU6VCjeD03OxgND2lbnivaT2BG0=
+
+Name: res/raw/happyfeelings.mp3
+SHA1-Digest: MCHJZJWdRyfWZd88zuRT51ij3lY=
+
+Name: res/raw/toughtitty.mp3
+SHA1-Digest: JW/amZY2W04B5V8VnRuuqQb8h8E=
+
+Name: res/layout/devsplash.xml
+SHA1-Digest: 1ML3WBto5dVXBiY7rwohwdHoGRk=
+
+Name: res/layout/buy.xml
+SHA1-Digest: lFQyN2hdKfnK9Gdvx9GX9iZSUtA=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: o544A1maWLmifa0m9RsiTh1AWSA=
+
+Name: res/drawable-hdpi/mlsplash.jpg
+SHA1-Digest: 6h4X+/YMnSmPw7V7RMnXlSYZB+0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 12S1L2804IdxX+iw37DbvFikMY4=
+
+Name: res/raw/lickin.mp3
+SHA1-Digest: /gbIWIvYlAuCrpHQ2fItsUKlyBc=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: 6MdeOIAilLTFw6VkOcwKEtxp29I=
+
+Name: res/layout/website.xml
+SHA1-Digest: zgJRAml6X1enbPgq4ohlml2aAWg=
+
+Name: res/layout/media.xml
+SHA1-Digest: 58RgIIm04/qW10AhYsmiGB1mbtw=
+
+Name: res/raw/chill.mp3
+SHA1-Digest: Wty5Vk6zCGq8K4YNoK+yjqHOa5g=
+
+Name: res/layout/splash.xml
+SHA1-Digest: W9zB9H1vHo6z0pD2JkAmmXjd70c=
+
+Name: res/layout/shows.xml
+SHA1-Digest: zYg3Q4EjoQgJ0SEisNo74l3Yl8M=
+
+Name: res/raw/daydreaming.mp3
+SHA1-Digest: aOCAjoBRMFVI1Vi4QpnHgOSRDI8=
+
+Name: res/drawable-mdpi/ml1.jpg
+SHA1-Digest: vI+mSPN36iQ+p4AJWQJm3q9l2sA=
+
+Name: res/raw/makemeleak.mp3
+SHA1-Digest: rS+US93Y68UU8EI9okVJvK1MNmg=
+
+Name: res/raw/letsmokethis.mp3
+SHA1-Digest: zHr70ff7zNUwwu+x1I0fapj1dFY=
+
+Name: classes.dex
+SHA1-Digest: Ynz6XQw+Z+GevW+tMoZ5XSPyMic=
+
+Name: res/layout/main.xml
+SHA1-Digest: EZ/TYOPuZQE52jg0mRCmCFxpmWk=
+
+Name: res/drawable-hdpi/bsteel.jpg
+SHA1-Digest: szw6KYo2u7nQriHyl3ZlZ4QQl5Q=
+
+Name: res/raw/splashing.mp3
+SHA1-Digest: ZYcDBSCee3gI9QOswF6TusVDyqU=
+
+Name: res/layout/fb.xml
+SHA1-Digest: BvTg3zSCoarQpIwLBqzdVb5P7HQ=
+
+Name: res/raw/digitaltime.mp3
+SHA1-Digest: xWYQatBX+8NjzB8BozCfRCDjDwA=
+
+Name: res/drawable-hdpi/biobg.jpg
+SHA1-Digest: 4vKrIhvpqz5qkdwPJ3TTcbiaf9I=
+
+Name: res/drawable-hdpi/culturebg.jpg
+SHA1-Digest: 0v6xgJWXODv6ZJuNPc/TOkhM5uo=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: o544A1maWLmifa0m9RsiTh1AWSA=
+
